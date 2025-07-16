@@ -15,4 +15,4 @@ This repository contains a comprehensive analysis of e-commerce sales data. The 
 - **Temporal Trends**: Examining year-over-year (YoY) growth to understand performance over time.
 
 ### 📈 Dash-Board Snap
-![Dashboard](images\skills_associated_with_top_paying_jobs.png)
+![Dashboard](image.png)
