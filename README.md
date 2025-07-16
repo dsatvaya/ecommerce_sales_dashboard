@@ -41,7 +41,7 @@ This analysis of the e-commerce dataset reveals several key trends and performan
 
 - **Underperforming Regions**: Several states, including Texas, show high sales volumes but experience significant losses, mirroring the issues seen in the Furniture category. This suggests that problematic products are disproportionately affecting certain regional markets.
 
-## **Actionable Recommendations**
+## ⚒️ **Actionable Recommendations**
 - **Re-evaluate the Furniture Category**: A thorough review of the Tables and Bookcases sub-categories is critical. Strategies could include discontinuing unprofitable items, adjusting pricing, or creating product bundles to increase profitability.
 
 - **Double Down on Technology**: Focus marketing and inventory efforts on the high-margin Technology category, particularly on top performers like Copiers and Phones.
