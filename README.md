@@ -1,5 +1,5 @@
-## 📊 E-commerce Sales Analysis
-### 🧩 Introduction
+# 📊 E-commerce Sales Analysis
+## 🧩 Introduction
 This repository contains a comprehensive analysis of e-commerce sales data. The primary objective of this project is to explore a dataset from a retail company, identify key trends, and extract actionable insights to drive strategic business decisions. By examining various aspects of the sales data, from high-level performance indicators to granular details on product categories and geographical distribution, this analysis aims to provide a clear picture of the company's performance and highlight potential areas for growth and improvement.
 
 ### 🔍 The project delves into several key areas of analysis, including:
