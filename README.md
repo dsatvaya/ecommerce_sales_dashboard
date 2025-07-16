@@ -4,14 +4,15 @@ This repository contains a comprehensive analysis of e-commerce sales data. The 
 
 ### 🔍 The project delves into several key areas of analysis, including:
 
--- **Sales and Profitability**: A detailed look at overall revenue and profit margins.
+- **Sales and Profitability**: A detailed look at overall revenue and profit margins.
 
--- **Product Performance**: Analysis of sales and profit by product category and sub-category to identify top-performing items.
+- **Product Performance**: Analysis of sales and profit by product category and sub-category to identify top-performing items.
 
--- **Geographical Insights**: Mapping sales data to understand regional performance and customer distribution.
+- **Geographical Insights**: Mapping sales data to understand regional performance and customer distribution.
 
--- **Key Performance Indicators (KPIs)**: Tracking essential metrics to gauge business health and success.
+- **Key Performance Indicators (KPIs)**: Tracking essential metrics to gauge business health and success.
 
--- **Temporal Trends**: Examining year-over-year (YoY) growth to understand performance over time.
+- **Temporal Trends**: Examining year-over-year (YoY) growth to understand performance over time.
 
-This README outlines the project structure, the dataset used, the tools employed for analysis and visualization, and a summary of the key findings.
+### 📈 Dash-Board Snap
+![Dashboard](images\skills_associated_with_top_paying_jobs.png)
